@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Prerna 👋
 
-<!--
-**Prernacreator/Prernacreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Python developer interested in automation and data projects.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Completed the freeCodeCamp **Scientific Computing with Python** certification
+- Building small projects with Python and AI tools (Claude, Gemini)
+- Learning Git and GitHub, and building in public
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Languages:** Python, [HTML, JavaScript, add what you know]
+**Tools:** Git, GitHub, [VS Code, add what you use]
+**Interests:** Automation, data projects, AI-assisted development
+
+## Featured projects
+- [Budget App](https://github.com/Prernacreator/budget-app): Python budget tracker (freeCodeCamp project)
+- [Media Catalogue](https://github.com/Prernacreator/Build-a-media-catalogue): Python media catalogue (freeCodeCamp project)
+- [College Quest Fabricland](https://github.com/Prernacreator/College-Quest-Fabricland): [one line about what it does]
+
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/prerna-keshari-515706357)
